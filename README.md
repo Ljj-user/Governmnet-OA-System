@@ -23,7 +23,7 @@
 2. 启动步骤：
 ```bash
 # 克隆项目
-git clone https://github.com/yourname/government-oa-system.git
+git clone [https://github.com/yourname/government-oa-system.git](https://github.com/Ljj-user/Governmnet-OA-System.git)
 
 # 初始化数据库（自动注入测试数据）
 mysql -uroot -p < docs/sql/init_table.sql
